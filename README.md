@@ -24,3 +24,4 @@ Eliminar favorito
 DELETE `/api/favourites`
 
 No tiene sentido que pida la fecha, el usuario nunca se va a acordar de eso
+ci: trigger develop Wed Oct 29 11:04:14 -05 2025
